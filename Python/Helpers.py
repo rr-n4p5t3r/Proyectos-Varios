@@ -1,4 +1,3 @@
-# Proyecto Jarvis472
 # Clase Helpers
 # Desarrollado por Ricardo Rosero - n4p5t3r
 # Email: rrosero2000@gmail.com
