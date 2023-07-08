@@ -27,7 +27,7 @@ void main() {
   print(myInt2);
 
   var myDouble = 6.5;
-  print(myDouble); 
+  print(myDouble);
 
   myDouble = 6;
   print(myDouble);
